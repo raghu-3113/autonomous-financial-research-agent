@@ -176,7 +176,7 @@ financial-research-agent/
 ## 1. Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/raghu-3113/autonomous-financial-research-agent
 cd financial-research-agent
 ```
 
